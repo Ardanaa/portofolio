@@ -1,10 +1,10 @@
 .bg-primary {
-    ackground-color: #1572a1 !important;
+    background-color: #1572a1 !important;
 }
 
 .jumbotron {
-    adding-top: 1rem;
-    ackground-color: #9ad0ec;
+    padding-top: 1rem;
+    background-color: #9ad0ec;
 }
 
 #projects {
