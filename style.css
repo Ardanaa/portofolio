@@ -1,12 +1,16 @@
 .bg-primary {
-    background-color: #1572a1 !important;
+  background-color: #1572a1 !important;
 }
 
 .jumbotron {
-    padding-top: 1rem;
-    background-color: #9ad0ec;
+  padding-top: 6rem;
+  background-color: #9ad0ec;
 }
 
 #projects {
-    background-color: #9ad0ec;
+  background-color: #9ad0ec;
+}
+
+section {
+  padding-top: 6rem;
 }
